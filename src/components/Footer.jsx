@@ -6,7 +6,7 @@ function Footer() {
         <div className="mx-auto max-w-screen-xl px-4 pt-44 sm:px-6 lg:px-8">
             <div className="mx-auto max-w-md">
             <strong className="block text-center text-xl font-bold text-gray-900 sm:text-3xl">
-                ¿Quieres conctatarme?
+                ¿Quieres contactarme?
             </strong>
 
             <form className="mt-6">
