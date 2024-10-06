@@ -37,7 +37,7 @@ function Projects() {
           </li>
 
           <li>
-            <a href="#" className="group block overflow-hidden">
+            <a href="public\files\datos.pbix" className="group block overflow-hidden">
               <img
                 src="public\img\OrganizaciónDatosClientes.png"
                 alt=""
@@ -62,7 +62,7 @@ function Projects() {
           </li>
 
           <li>
-            <a href="#" className="group block overflow-hidden">
+            <a href="public\files\Datos-Azure.pbix" className="group block overflow-hidden">
               <img
                 src="public\img\bicicletas-azure.png"
                 alt=""
@@ -87,7 +87,7 @@ function Projects() {
           </li>
 
           <li>
-            <a href="#" className="group block overflow-hidden">
+            <a href="public\files\Tenis de Coleccion.xlsx" className="group block overflow-hidden">
               <img
                 src="public\img\Tenis.png"
                 alt=""
