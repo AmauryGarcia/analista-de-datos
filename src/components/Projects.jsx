@@ -13,7 +13,7 @@ function Projects() {
           <li>
             <a href="public\files\TarjetasCredito.pbix" className="group block overflow-hidden">
               <img
-                src="src/assets/img/TarjetasDeCredito.png"
+                src="AmauryGarcia/analista-de-datos/src/assets/img/TarjetasDeCredito.png"
                 alt=""
                 className="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
               />
