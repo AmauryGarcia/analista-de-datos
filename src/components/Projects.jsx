@@ -11,7 +11,7 @@ function Projects() {
 
         <ul className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <li>
-            <a href="public\files\TarjetasCredito.pbix" className="group block overflow-hidden">
+            <a href="/TarjetasCredito.pbix" className="group block overflow-hidden">
               <img
                 src="/TarjetasDeCredito.png"
                 alt=""
