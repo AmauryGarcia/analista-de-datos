@@ -21,7 +21,7 @@ function Projects() {
               <div className="relative bg-white pt-3">
                 <div className='flex'>
                   <h3 className="text-sm px-3 text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                    #PowerBi
+                    #Power BI
                   </h3>
                   <h3 className="text-sm text-gray-700 group-hover:underline group-hover:underline-offset-4">
                     #Excel
@@ -47,7 +47,7 @@ function Projects() {
               <div className="relative bg-white pt-3">
                 <div className='flex'>
                   <h3 className="text-sm px-2 text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                    #PowerBi
+                    #Power BI
                   </h3>
                   <h3 className="text-sm text-gray-700 group-hover:underline group-hover:underline-offset-4">
                     #Excel
@@ -72,7 +72,7 @@ function Projects() {
               <div className="relative bg-white pt-3">
                 <div className='flex'>
                   <h3 className="text-sm px-2 text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                    #PowerBi
+                    #Power BI
                   </h3>
                   <h3 className="text-sm text-gray-700 group-hover:underline group-hover:underline-offset-4">
                     #Azure
