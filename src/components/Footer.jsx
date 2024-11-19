@@ -54,7 +54,7 @@ function Footer() {
             <ul className="mt-8 flex justify-center gap-6 sm:mt-0 lg:justify-end">
                 <li>
                     <a
-                        href="https://github.com/AmauryGarcia"
+                        href="https://github.com/amaurygarcia26"
                         target="_blank"
                         className="text-gray-700 transition hover:opacity-75"
                     >
