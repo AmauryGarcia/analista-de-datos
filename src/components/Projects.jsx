@@ -11,7 +11,9 @@ function Projects() {
 
         <ul className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <li>
-            <a href="/TarjetasCredito.pbix" className="group block overflow-hidden">
+            <a href="https://app.powerbi.com/view?r=eyJrIjoiNzYxZGZmMzctMDQ4ZS00MWEwLTg3MmQtOGFkMWMzZjliYjM2IiwidCI6ImE1OTc2MjA2LTJhYzItNDVmZi1hM2EwLTIyMzkxMTY1MDk1MCIsImMiOjR9" 
+              target="_blank"
+              className="group block overflow-hidden">
               <img
                 src="/TarjetasDeCredito.png"
                 alt=""
@@ -37,7 +39,9 @@ function Projects() {
           </li>
 
           <li>
-            <a href="/datos.pbix" className="group block overflow-hidden">
+            <a href="https://app.powerbi.com/view?r=eyJrIjoiNWVjYWYwZTQtYjk5NC00MDc4LThiODEtOTMzN2Y4MTQ1YjhjIiwidCI6ImE1OTc2MjA2LTJhYzItNDVmZi1hM2EwLTIyMzkxMTY1MDk1MCIsImMiOjR9" 
+              target="_blank"
+              className="group block overflow-hidden">
               <img
                 src="/OrganizaciónDatosClientes.png"
                 alt=""
@@ -62,7 +66,9 @@ function Projects() {
           </li>
 
           <li>
-            <a href="/Datos-Azure.pbix" className="group block overflow-hidden">
+            <a href="https://app.powerbi.com/view?r=eyJrIjoiZjc5MmM3ZTMtNDlkZC00ZTJjLThmMjctZGMzZDVkNmUzZGIyIiwidCI6ImE1OTc2MjA2LTJhYzItNDVmZi1hM2EwLTIyMzkxMTY1MDk1MCIsImMiOjR9" 
+              target="_blank"
+              className="group block overflow-hidden">
               <img
                 src="/bicicletas-azure.png"
                 alt=""
