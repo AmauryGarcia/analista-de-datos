@@ -39,7 +39,7 @@ function Footer() {
             >
             <ul className="flex flex-wrap justify-center gap-4 text-xs lg:justify-end">
                 <li>
-                    <span className="text-gray-500"> © 2024 </span>
+                    <span className="text-gray-500"> © 2025 </span>
                 </li>
 
                 <li>
