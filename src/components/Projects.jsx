@@ -11,11 +11,11 @@ function Projects() {
 
         <ul className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <li>
-            <a href="https://app.powerbi.com/view?r=eyJrIjoiNzYxZGZmMzctMDQ4ZS00MWEwLTg3MmQtOGFkMWMzZjliYjM2IiwidCI6ImE1OTc2MjA2LTJhYzItNDVmZi1hM2EwLTIyMzkxMTY1MDk1MCIsImMiOjR9" 
+            <a href="https://app.powerbi.com/view?r=eyJrIjoiOGRkZDYwNGYtYTI0Mi00Y2I3LTljZGEtNDFmZDg3NDIwMmE2IiwidCI6ImE1OTc2MjA2LTJhYzItNDVmZi1hM2EwLTIyMzkxMTY1MDk1MCIsImMiOjR9" 
               target="_blank"
               className="group block overflow-hidden">
               <img
-                src="/TarjetasDeCredito.png"
+                src="/Compañias.png"
                 alt=""
                 className="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
               />
@@ -32,7 +32,7 @@ function Projects() {
                 
 
                 <p className="mt-2">
-                  <span className="text-gray-900 font-semibold"> Tarjetas de Credito </span>
+                  <span className="text-gray-900 font-semibold"> Top Compañias </span>
                 </p>
               </div>
             </a>
